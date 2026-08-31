@@ -6,6 +6,8 @@ I take messy real-world installs, write them down, and turn those notes into gui
 
 **YouTube:** [JeffTheTroubleshooter](https://www.youtube.com/@JeffTheTroubleshooter)
 
+**Sponsor:** [GitHub Sponsors](https://github.com/sponsors/JeffTheTroubleshooter)
+
 ## Guides
 
 - [Apache Guacamole setup](https://github.com/JeffTheTroubleshooter/Guacamole-Setup-Guide-) — RDP, VNC, and SSH with a database. [Video](https://youtu.be/v_XuHrTRRpQ)
@@ -19,4 +21,4 @@ I take messy real-world installs, write them down, and turn those notes into gui
 
 ---
 
-If something is broken, bring it here.
+If something is broken, bring it here. If a guide saves you time, [sponsor me on GitHub](https://github.com/sponsors/JeffTheTroubleshooter).
