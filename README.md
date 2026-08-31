@@ -1,12 +1,12 @@
 # Jeff
 
-Hardware and software troubleshooter. Bring them to me 🗡️
+Hardware and software troubleshooter. Bring them to me 🔱
 
 I take messy real-world installs, write them down, and turn those notes into guides and scripts you can actually run.
 
-**YouTube:** [JeffTheTroubleshooter](https://www.youtube.com/@JeffTheTroubleshooter)
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub_Sponsors-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/JeffTheTroubleshooter)
 
-**Sponsor:** [GitHub Sponsors](https://github.com/sponsors/JeffTheTroubleshooter)
+**YouTube:** [JeffTheTroubleshooter](https://www.youtube.com/@JeffTheTroubleshooter) · **Sponsor:** [GitHub Sponsors](https://github.com/sponsors/JeffTheTroubleshooter)
 
 ## Guides
 
