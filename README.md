@@ -1,6 +1,6 @@
 # Jeff
 
-Hardware and software troubleshooter. Bring them to me 🔱
+Hardware and software troubleshooter. Bring them to me 🗡️
 
 I take messy real-world installs, write them down, and turn those notes into guides and scripts you can actually run.
 
